@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://linkedin.com/in/ege-ercin"
-github: "https://github.com/egeercin"
-researchgate: "#"
-instagram: "https://instagram.com/ercin.ege"
+linkedin: "ege-ercin"
+github: "egeercin"
+letterboxd: "egeercin"
+instagram: "ercin.ege"
 
 # Markdown
 highlighter: rouge
