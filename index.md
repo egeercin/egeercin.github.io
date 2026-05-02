@@ -7,15 +7,13 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am a 3T0 Freshman student at [UofT ECE](https://www.ece.utoronto.ca){:target="_blank"}. I build interesting stuff that interests me first of all, and then aims to benefit society or people's lives in some way. My main research and application interests lie in Electronics, Embedded Systems, Machine Learning, and Energy Economics.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Biggest desire? To be stellar at one thing, great at three, good at six. Biggest fear? Not making that happen.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+P.S.: Shoot me a message! I love to talk with new people, you never know where a connection will lead you :) 
 
-PS: If you liked the theme, do star it on GitHub!
+**Currently looking for:**
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- Muay Thai Sparring Partner - Moving to Toronto in August, I am in need of a sparring partner who has the drive to get better.
+- F26 Part-time opportunities - I am open to hear about any role ranging from personal training to engineering to tour guide!
