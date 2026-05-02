@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Ege Ercin
+description: UofT EE | Builder | Just the Two of Us 1:30
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "/" #name of GitHub repository
+url: "https://username.github.io"
+email: "egepoyrazercin@gmail.com"
 
 # Pagination
 paginate: 4
