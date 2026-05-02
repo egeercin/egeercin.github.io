@@ -4,7 +4,7 @@ title: Ege Ercin
 description: UofT EE | Builder | Just the Two of Us 1:30
 
 baseurl: "/" #name of GitHub repository
-url: "https://username.github.io"
+url: "https://egeercin.github.io"
 email: "egepoyrazercin@gmail.com"
 
 # Pagination
@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
+linkedin: "https://linkedin.com/in/ege-ercin"
+github: "https://github.com/egeercin"
 researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+instagram: "https://instagram.com/ercin.ege"
 
 # Markdown
 highlighter: rouge
